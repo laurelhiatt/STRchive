@@ -579,61 +579,204 @@
 "DRPLA_ATN1":
 {"independent_observations": [
     [
-        "doi":
-        "year":
-        "type":
-        "description":
-        ],
-        [
-        "doi":
-        "year":
-        "type":
-        "description":
-        ],
-            [
-        "doi":
-        "year":
-        "type":
-        "description":
-        ],
-            [
-        "doi":
-        "year":
-        "type":
-        "description":
-        ],
-        [
-        "doi":
-        "year":
-        "type":
-        "description":
-        ],
-        [
-        "doi":
-        "year":
-        "type":
-        "description":
-        ],
-        [
-        "doi":
-        "year":
-        "type":
-        "description":
-        ],
-
-        [
-    "doi":
-    "year":
-    "type":
-    "description":
-    ]
+    "doi": "10.1212/WNL.32.8.798",
+    "year": 1982,
+    "type": "Article",
+    "description": "Established DRPLA with five families."
+    ],
+    [
+    "doi": "10.1212/WNL.32.12.1395",
+    "year": 1982,
+    "type": "Article",
+    "description": "1 family",
+    ],
+    [
+    "doi": "10.1136/jnnp.47.12.1288",
+    "year": 1984,
+    "type": "Article",
+    "description": "Four cases are used to describe three subtypes of DRPLA."
+    ],
+    [
+    "doi": "10.1016/0022-510x(85)90084-x",
+    "year": 1985,
+    "type": "Article",
+    "description": "3 DRPLA cases used to study neurotransmitters and neuronal cell density.",
+    ],
+    [
+    "doi": "10.1002/mds.870050207",
+    "year": 1990,
+    "type": "Article",
+    "description": "Case report of one patient",
+    ],
+    [
+    "doi": "10.1093/hmg/3.7.1197",
+    "year": 1994,
+    "type": "Article",
+    "description": "Two families, across generations",
+    ],
+    [
+    "doi": "10.1038/ng0894-521",
+    "year": 1994,
+    "type": "Article",
+    "description": "1 Family with 'Haw River Syndrome'.",
+    ],
+    [
+    "doi": "10.1038/ng0194-14",
+    "year": 1994,
+    "type": "Article",
+    "description": "12 families used in this and other publications; this is the only one represented to avoid redundancy.",
+    ],
+    [
+    "doi": "10.1038/ng0194-9",
+    "year": 1994,
+    "type": "Article",
+    "description": "Two new families presented in research analysis.",
+    ],
+    [
+    "doi": "10.1055/s-2008-1073027",
+    "year": 1994,
+    "type": "Article",
+    "description": "A case report of juvenile DRPLA.",
+    ],
+    [
+    "doi": "10.1111/j.1442-200X.1994.tb03240.x",
+    "year": 1994,
+    "type": "Article",
+    "description": "Case report of a patient in the early stage of DRPLA of the myoclonus epilepsy type. DOI does not direct correctly but corresponds to PMID: 7825457",
+    ],
+    [
+    "doi": "10.1038/ng0194-8",
+    "year": 1994,
+    "type": "Letter",
+    "description": "Correspondence describing a French family with DRPLA.",
+    ],
+    [
+    "doi": "10.1007/BF00201575",
+    "year": 1994,
+    "type": "Brief Communication",
+    "description": "Four families with DRPLA.",
+    ],
+    [
+    "doi": "10.1111/j.1440-1789.1995.tb00258.x",
+    "year": 1995,
+    "type": "Article",
+    "description": "8 patients.",
+    ],
+    [
+    "doi": "10.1111/j.1440-1789.1995.tb00259.x",
+    "year": 1995,
+    "type": "Article",
+    "description": "3 cases",
+    ],
+    [
+    "doi": "10.1016/0022-510X(95)00019-X",
+    "year": 1995,
+    "type": "Article",
+    "description": "6 patients from three generations of one family.",
+    ],
+    [
+    "doi": "10.1212/WNL.45.1.143",
+    "year": 1995,
+    "type": "Article",
+    "description": "Two new pedigrees introduced. Other pedigrees studied previously and documented above.",
+    ],
+    [
+    "doi": "10.1002/ana.410370610",
+    "year": 1995,
+    "type": "Article",
+    "description": "28 families, including previously published which have been removed to avoid redundancy.",
+    ],
+    [
+    "doi": "10.1093/hmg/4.4.663",
+    "year": 1995,
+    "type": "Article",
+    "description": "1 new case introduced",
+    ],
+    [
+    "doi": null,
+    "year": 1995,
+    "type": "Article",
+    "description": "Case report of childhood onset DRPLA. PMID: 8693983",
+    ],
+    [
+    "doi": "10.1136/jnnp.61.1.113",
+    "year": 1996,
+    "type": "Article",
+    "description": "Sporadic case report of one individual",
+    ],
+    [
+    "doi": null,
+    "year": 1996,
+    "type": "Article",
+    "description": "1 new patient described in addition to previously published patients, including one from a Japanese article not otherwise in this catalog (Takeda et al., 1992). PMID: 8651298",
+    ],
+    [
+    "doi": "10.1016/0022-510x(95)00249-2",
+    "year": 1996,
+    "type": "Article",
+    "description": "A DRPLA case report, in addition to MJD and SBMA"
+    ],
+    [
+    "doi": "10.1111/j.1440-1789.1996.tb00156.x",
+    "year": 1996,
+    "type": "Article",
+    "description": "Four unrelated case reports.",
+    ],
+    [
+    "doi": "10.1111/j.1399-0004.1996.tb02625.x",
+    "year": 1996,
+    "type": "Article",
+    "description": "An autopsied patient.",
+    ],
+    [
+    "doi": "10.1212/wnl.49.6.1605",
+    "year": 1997,
+    "type": "Article",
+    "description": "26 patients; MRI findings.",
+    ],
+    [
+    "doi": "10.1111/j.1528-1157.1997.tb01116.x",
+    "year": 1997,
+    "type": "Article",
+    "description": "2 brothers from one family presented",
+    ],
+    [
+    "doi": "10.1016/s0387-7604(97)00022-3",
+    "year": 1997,
+    "type": "Article",
+    "description": "Three unrelated case reports",
+    ],
 ]
 
 }
 
 "SCA1_ATXN1":
-{"independent_observations":
-
+{"independent_observations": [
+[
+    "doi":
+    "year":
+    "type":
+    "description":
+    ],
+    [
+    "doi":
+    "year":
+    "type":
+    "description":
+    ],
+    [
+    "doi":
+    "year":
+    "type":
+    "description":
+    ],
+    [
+    "doi":
+    "year":
+    "type":
+    "description":
+    ],
+]
 }
 
 "SCA10_ATXN10":
