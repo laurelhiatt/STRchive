@@ -52,10 +52,10 @@
 
 ],
     "total_ind_obs":3
-}
+},
 
-"SBMA_AR":
-{"independent_observations":[
+"SBMA_AR":{
+    "independent_observations":[
     1 [
         "doi": "10.1001/archneur.1990.00530100087018",
         "year":1990,
@@ -159,7 +159,7 @@
         "description": "10 families in Western Finland: point prevalence is 13 patients per 85,000 male inhabitants.",
         ],
     18 [
-        "doi": " 10.1023/a:1022441101801",
+        "doi": "10.1023/a:1022441101801",
         "year": 1998,
         "type": "Article",
         "description": "1 SBMA patient in a study of somatic mosaicism in SBMA, MJD, and DRPLA.",
@@ -522,8 +522,8 @@
     "total_ind_obs": 2285
 },
 
-"EIEE1_ARX":
-{"independent_observations": [
+"EIEE1_ARX":{
+    "independent_observations": [
 1 [
     "doi": "10.1002/humu.21288",
     "year": 2010,
@@ -550,10 +550,10 @@
     ],
   ],
   "total_ind_obs": 33
-}
+},
 
-"PRTS_ARX":
-{"independent_observations": [
+"PRTS_ARX":{
+    "independent_observations": [
 1    [
     "doi": "10.1002/humu.21288",
     "year": 2010,
@@ -574,10 +574,10 @@
     ],
 ],
     "total_ind_obs": 9
-}
+},
 
-"DRPLA_ATN1":
-{"independent_observations": [
+"DRPLA_ATN1":{
+    "independent_observations": [
     [
     "doi": "10.1212/WNL.32.8.798",
     "year": 1982,
@@ -746,9 +746,64 @@
     "type": "Article",
     "description": "Three unrelated case reports",
     ],
+[
+    "doi": "10.1111/j.1600-0404.1998.tb07378.x",
+    "year": 1998,
+    "type": "Article",
+    "description": "7 cases with a familial history of dominant cerebellar ataxia and 2 sporadic cases (9 total with DRPLA)."
+    ],
+
+    ["doi": "10.1023/a:1022441101801",
+    "year": 1998,
+    "type": "Article",
+    "description": "1 patient in a study of somatic mosaicism in SBMA, MJD, and DRPLA.",
+],
+
+    [
+    "doi": "10.1212/wnl.50.1.282",
+    "year": 1998,
+    "type": "Brief Communications",
+    "description": "Sibs from one family",
+    ],
+    [
+    "doi": "10.1007/s004010050828",
+    "year": 1998,
+    "type": "Article",
+    "description": "16 patients described but at least some number included in previous publications; 6 patients apparently new in this report (at least)."
+    ],
+    [
+    "doi":
+    "year":
+    "type":
+    "description":
+    ],
+[
+    "doi":
+    "year":
+    "type":
+    "description":
+    ],
+    [
+    "doi":
+    "year":
+    "type":
+    "description":
+    ],
+    [
+    "doi":
+    "year":
+    "type":
+    "description":
+    ],
+    [
+    "doi":
+    "year":
+    "type":
+    "description":
+    ],
 ]
 
-}
+},
 
 "SCA1_ATXN1":
 {"independent_observations": [
@@ -792,6 +847,15 @@
 "SCA3_ATXN3":
 {"independent_observations":
 
+"doi": "10.1016/0022-510x(95)00249-2",
+"year": 1996,
+"type": "Article",
+"description": "1 patient; looked at repeats in different tissues.",
+"doi": "10.1023/a:1022441101801",
+
+"year": 1998,
+"type": "Article",
+"description": "1 patient in a study of somatic mosaicism in SBMA, MJD, and DRPLA.",
 }
 
 "SCA7_ATXN7":
