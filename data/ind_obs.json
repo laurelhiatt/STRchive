@@ -1,937 +1,928 @@
-    [
-    "doi":
-    "year":
-    "type":
-    "description":
-    ]
-
-{
-"OPDM_ABCD3" : {
-    "independent_observations":[
-        1 [
-     "doi": "10.1101/2023.10.09.23296582",
+[
+{ "OPDM_ABCD3": {
+    "independent_observations":{
+    "doi": "10.1101/2023.10.09.23296582",
      "year": 2023,
      "type": "Preprint",
-     "description": "35 OPDM individuals, 8 unrelated families"]
-    ],
-    "total_ind_obs":8
-},
+     "description": "35 OPDM individuals, 8 unrelated families"
+    },
+    "total_ind_obs":8 }},
 
-"FRAXE_AFF2": {
-"independent_observations": [
-    1 [
+{ "FRAXE_AFF2":
+{
+"independent_observations": {
+   "1": {
     "doi": "10.1017/S0003480000007983",
     "year": 2000,
     "type": "Review",
     "description": "More than 50 families known worldwide; cites those listed below."
-    ],
-    2 [
+},
+   "2": {
     "doi": "10.3389/fnmol.2022.795840",
     "year": 2022,
     "type": "Article",
     "description": "Describes 28 families in Supp Table 1, previously documented."
-    ]
-],
-    "total_ind_obs":">50"
+    }
 },
-"FRA2A_AFF3":{
-    "independent_observations": [
-    1 [
+    "total_ind_obs":">50"}
+},
+
+{ "FRA2A_AFF3":
+{
+    "independent_observations": {
+    "1": {
     "doi": "10.1371/journal.pgen.1004242",
     "year": 2014,
     "type": "Article",
     "description": "3 families"
-    ],
-    2 [
-    "doi": "10.1101/2023.05.03.23289461"
+    },
+    "2": {
+    "doi": "10.1101/2023.05.03.23289461",
     "year": 2023,
-    "type": "Preprint"
+    "type": "Preprint",
     "description": "Pathogenicity inferred with expanded/methylated alleles. Population; not conclusive diagnoses."
-    ],
-
-
-],
-    "total_ind_obs":3
+    }},
+    "total_ind_obs":3}
 },
 
-"SBMA_AR":{
-    "independent_observations":[
-    1 [
+{"SBMA_AR": {
+    "independent_observations":{
+    "1": {
         "doi": "10.1001/archneur.1990.00530100087018",
         "year":1990,
         "type": "Article",
-        "description": "Mentions previous 31 families and presents one new for a total of 32 families as of 1990.",
-    ],
-    2 [
+        "description": "Mentions previous 31 families and presents one new for a total of 32 families as of 1990."
+    },
+    "2": {
         "doi": "10.1038/352077a0",
         "year": 1991,
         "type": "Letter",
-        "description": "Amplified repeats are found in 35 unrelated patients.",
-    ],
-    3 [
+        "description": "Amplified repeats are found in 35 unrelated patients."
+    },
+    "3": {
         "doi": "10.1212/wnl.42.12.2300",
         "year": 1992,
         "type": "Brief Communication",
-        "description": "Evidence of correlation between expansion and disease severity. Investigates 19 patients.",
-        ],
-    4 [
+        "description": "Evidence of correlation between expansion and disease severity. Investigates 19 patients."
+        },
+    "4": {
         "doi": "10.1002/ana.410320517",
         "year": 1992,
         "type": "Brief Communication",
-        "description": "21 families investigated; repeat corresponds to age of onset.",
-        ],
-    5   [
+        "description": "21 families investigated; repeat corresponds to age of onset."
+        },
+    "5":   {
         "doi": "10.1212/WNL.42.11.2181",
         "year": 1992,
         "type": "Article",
-        "description": "4 families.",
-        ],
-    6 [
+        "description": "4 families."
+        },
+    "6": {
         "doi": "10.1136/jnnp.55.5.394",
         "year": 1992,
         "type": "Article",
-        "description": "12 patients.",
-        ],
-    7   [
+        "description": "12 patients."
+        },
+    "7":   {
         "doi": "10.1212/WNL.43.4.791",
         "year": 1993,
         "type": "Article",
-        "description": "7 families. Early detection is possible.",
-        ],
-    8    [
+        "description": "7 families. Early detection is possible."
+        },
+    "8":    {
         "doi": "10.1136/jnnp.56.7.832",
         "year": 1993,
         "type": "Article",
-        "description": "Case report of very late onset individual.",
-        ],
-    9    [
+        "description": "Case report of very late onset individual."
+        },
+    "9":    {
         "doi": "10.1016/0022-510x(94)90054-x",
         "year": 1994,
         "type": "Article",
-        "description": "1 patient",
-        ],
-    10    [
+        "description": "1 patient"
+        },
+    "10":    {
         "doi": "10.1016/0022-510x(94)90054-x",
         "year": 1994,
         "type": "Article",
-        "description": "1 patient",
-        ],
-    11   [
+        "description": "1 patient"
+        },
+    "11":   {
         "doi": "10.1002/ajmg.1320550125",
         "year": 1995,
         "type": "Article",
-        "description": "25 sporadic patients and 1 family: 26 independent observations.",
-        ],
-    12  [
+        "description": "25 sporadic patients and 1 family: 26 independent observations."
+        },
+    "12":  {
         "doi": "10.1002/(SICI)1098-1004(1996)8:1<32::AID-HUMU4>3.0.CO;2-R",
         "year": 1996,
         "type": "Article",
-        "description": "2 patients.",
-        ],
-    13 [
+        "description": "2 patients."
+        },
+    "13": {
         "doi": "10.1016/0303-7207(95)03741-1",
         "year": 1996,
         "type": "Article",
-        "description": "1 family",
-        ],
-    14 [
+        "description": "1 family"
+        },
+    "14": {
         "doi": "10.1016/0022-510x(95)00249-2",
         "year": 1996,
         "type": "Article",
-        "description": "1 patient; looked at repeats in different tissues.",
-        ],
-    15 [
+        "description": "1 patient; looked at repeats in different tissues."
+        },
+    "15": {
         "doi": "10.1016/0022-510x(95)00285-a",
         "year": 1996,
         "type": "Article",
-        "description": "1 family (2 brothers).",
-        ],
-    16 [
+        "description": "1 family (2 brothers)."
+        },
+    "16": {
         "doi": "10.1212/WNL.49.2.568",
         "year": 1997,
         "type": "Article",
-        "description": "12 patients. SBMA can be misdiagnosed as ALS.",
-        ],
-    17 [
+        "description": "12 patients. SBMA can be misdiagnosed as ALS."
+        },
+    "17": {
         "doi": "10.1111/j.1600-0404.1998.tb01732.x",
         "year": 1998,
         "type": "Article",
-        "description": "10 families in Western Finland: point prevalence is 13 patients per 85,000 male inhabitants.",
-        ],
-    18 [
+        "description": "10 families in Western Finland: point prevalence is 13 patients per 85,000 male inhabitants."
+        },
+    "18": {
         "doi": "10.1023/a:1022441101801",
         "year": 1998,
         "type": "Article",
-        "description": "1 SBMA patient in a study of somatic mosaicism in SBMA, MJD, and DRPLA.",
-        ],
-    19 [
+        "description": "1 SBMA patient in a study of somatic mosaicism in SBMA, MJD, and DRPLA."
+        },
+   "19": {
         "doi": "10.1086/302578",
         "year": 1999,
         "type": "Article",
-        "description": "20 patients, evaluating somatic mosaicism across tissues.",
-        ],
-    20 [
+        "description": "20 patients, evaluating somatic mosaicism across tissues."
+        },
+    "20": {
         "doi": "10.1038/sj.ejhg.5200517",
         "year": 2000,
         "type": "Article",
-        "description": "37 families, establshing country specific founder haplotypes.",
-        ],
-    21 [
+        "description": "37 families, establshing country specific founder haplotypes."
+        },
+    "21": {
         "doi": "10.1016/s0960-8966(99)00132-7",
         "year": 2000,
         "type": "Article",
-        "description": "28 families newly described (2 families described previously.",
-        ],
-    22 [
+        "description": "28 families newly described (2 families described previously."
+        },
+    "22": {
         "doi": "10.1023/A:1014580219761",
         "year": 2001,
         "type": "Article",
-        "description": "Clinical assessment of five different pedigrees.",
-        ],
-    23 [
+        "description": "Clinical assessment of five different pedigrees."
+        },
+    "23": {
         "doi": "10.1038/sj.ejhg.5200656",
         "year": 2001,
         "type": "Article",
-        "description": "123 families from different parts of the world. Longer repeats indicate more severe and earlier onset disease.",
-        ],
-    24 [
+        "description": "123 families from different parts of the world. Longer repeats indicate more severe and earlier onset disease."
+        },
+    "24": {
         "doi": "10.1212/01.wnl.0000033325.01878.13",
         "year": 2002,
         "type": "Article",
-        "description": "2 patients with jaw drop.",
-        ],
-    25 [
+        "description": "2 patients with jaw drop."
+        },
+    "25": {
         "doi": "10.1210/jcem.87.8.8780",
         "year": 2002,
         "type": "Article",
-        "description": "22 patients; showed androgen insensitivity in Kennedy Disease.",
-        ],
-    26 [
+        "description": "22 patients; showed androgen insensitivity in Kennedy Disease."
+        },
+    "26": {
         "doi": "10.1001/archneur.59.12.1921",
         "year": 2002,
         "type": "Article",
         "description": "34 patients. Environmental factors may influence specific disease presentation."
-        ],
-    27 [
+        },
+    "27": {
         "doi": "10.1212/01.WNL.0000158617.41819.F3",
         "year": 2005,
         "type": "Article",
-        "description": "Family with early onset (youngest onset was 8yos) and rapid progression (50-54 repeats).",
-        ],
-    28 [
+        "description": "Family with early onset (youngest onset was 8yos) and rapid progression (50-54 repeats)."
+        },
+    "28": {
         "doi": "10.1212/01.WNL.0000151978.74467",
         "year": 2005,
         "type": "Brief Communication",
-        "description": "49 patients assessed; almost half had recurrent laryngospasm.",
-        ],
-    29 [
+        "description": "49 patients assessed; almost half had recurrent laryngospasm."
+        },
+    "29": {
         "doi": "10.1093/brain/awh381",
         "year": 2005,
         "type": "Article",
-        "description": "11 patients evaluated at autopsy.",
-        ],
-    30 [
+        "description": "11 patients evaluated at autopsy."
+        },
+    "30": {
         "doi": null,
         "year": 2005,
         "type": "Brief Communication",
-        "description": "21 patients had diagnosis confirmed. PMID: 15876692.",
-        ],
-    31 [
+        "description": "21 patients had diagnosis confirmed. PMID: 15876692."
+        },
+    "31": {
         "doi": "10.1002/ana.20735",
         "year": 2006,
         "type": "Article",
-        "description": "Scrotal skin of 23 patients evaluated.",
-        ],
-    32 [
+        "description": "Scrotal skin of 23 patients evaluated."
+        },
+    "32": {
         "doi": "10.1093/brain/awl096",
         "year": 2006,
         "type": "Article",
         "description": "Natural history of 223 Japanese patients evaluated."
-        ],
-    33 [
+        },
+    "33": {
         "doi": "10.1212/01.wnl.0000279521.81846.59",
         "year": 2007,
         "type": "Article",
-        "description": "Axonal function assessed in 7 patients.",
-        ],
-    34 [
+        "description": "Axonal function assessed in 7 patients."
+        },
+    "34": {
         "doi": null,
         "year": 2008,
         "type": "Article",
-        "description": "1 patients; appears similar to ALS.",
-        ],
-    35 [
+        "description": "1 patients; appears similar to ALS."
+        },
+    "35": {
         "doi": "10.1007/s10067-008-0946-5",
         "year": 2008,
         "type": "Article",
-        "description": "1 patient with KD and antisynthetase syndrome.",
-        ],
-    36 [
+        "description": "1 patient with KD and antisynthetase syndrome."
+        },
+    "36": {
         "doi": "10.1080/17482960701553915",
         "year": 2008,
         "type": "Article",
-        "description": "1 patient with atypical phenotype (pure bulbar motor neuron involvement).",
-        ],
-    37 [
+        "description": "1 patient with atypical phenotype (pure bulbar motor neuron involvement)."
+        },
+    "37": {
         "doi": "10.1159/000116008",
         "year": 2008,
         "type": "Article",
-        "description": "1 Italian kindred.",
-        ],
-    38 [
+        "description": "1 Italian kindred."
+        },
+    "38": {
         "doi": "10.1016/j.jns.2007.08.012",
         "year": 2008,
         "type": "Article",
-        "description": "8 patients biopsied (as well as 3 female carriers).",
-        ],
-    39 [
+        "description": "8 patients biopsied (as well as 3 female carriers)."
+        },
+    "39": {
         "doi": "10.1212/01.wnl.0000312510.49768.eb",
         "year": 2008,
         "type": "Article",
-        "description": "Natural history of 39 patients evaluated.",
-        ],
-    40 [
+        "description": "Natural history of 39 patients evaluated."
+        },
+    "40": {
         "doi": "10.1002/mds.22566",
         "year": 2009,
         "type": "Article",
-        "description": "Eight patients, postural tremor evaluated.",
-        ],
-    41 [
+        "description": "Eight patients, postural tremor evaluated."
+        },
+    "41": {
         "doi": "10.1002/ana.21540",
         "year": 2009,
         "type": "Article",
-        "description": "Clinical trial for 50 patients.",
-        ],
-    42 [
+        "description": "Clinical trial for 50 patients."
+        },
+    "42": {
         "doi": "10.5692/clinicalneurol.49.22",
         "year": 2009,
         "type": "Article",
-        "description": "1 family of two brothers with very late onset (78 the latest).",
-        ],
-    43 [
+        "description": "1 family of two brothers with very late onset (78 the latest)."
+        },
+    "43": {
         "doi": "10.1093/brain/awp258",
         "year": 2009,
         "type": "Article",
-        "description": "Clinical features of 57 patients.",
-        ],
-    44    [
+        "description": "Clinical features of 57 patients."
+        },
+    "44":    {
         "doi": "10.1007/s00415-009-5212-5",
         "year": 2009,
         "type": "Article",
-        "description": "Neuropsychological study of 20 patients.",
-        ],
-    45    [
+        "description": "Neuropsychological study of 20 patients."
+        },
+    "45":    {
         "doi": "10.1016/S1474-4422(10)70182-4",
         "year": 2010,
         "type": "Article",
-        "description": "Randomized controlled trial for 204 patients.",
-        ],
-    46    [
+        "description": "Randomized controlled trial for 204 patients."
+        },
+    "46":    {
         "doi": "10.3109/17482960802445086",
         "year": 2010,
         "type": "Article",
-        "description": "Phenotypic differences in one very large, clinically heterogeneous family.",
-        ],
-    47    [
+        "description": "Phenotypic differences in one very large, clinically heterogeneous family."
+        },
+    47    {
         "doi": "10.1016/S1474-4422(10)70321-5",
         "year": 2011,
         "type": "Article",
-        "description": "Clinical trial of 50 patients",
-        ],
-    48   [
+        "description": "Clinical trial of 50 patients"
+        },
+    48   {
         "doi": "10.1002/mus.23413",
         "year": 2012,
         "type": "Article",
-        "description": "Evaluation of biomarkers in 33 patients.",
-        ],
-    49    [
+        "description": "Evaluation of biomarkers in 33 patients."
+        },
+    49    {
         "doi": "10.1093/brain/aws170",
         "year": 2012,
         "type": "Article",
-        "description": "Progressive observation of 34 patients.",
-        ],
-    50    [
+        "description": "Progressive observation of 34 patients."
+        },
+    50    {
         "doi": "10.1016/j.jns.2013.09.016",
         "year": 2013,
         "type": "Article",
-        "description": "PET studies of ten patients.",
-        ],
-    51    [
+        "description": "PET studies of ten patients."
+        },
+    51    {
         "doi": "10.1111/ane.12140",
         "year": 2013,
         "type": "Article",
-        "description": "Cardiac protocol applied to 25 patients",
-        ],
-    52    [
+        "description": "Cardiac protocol applied to 25 patients"
+        },
+    52    {
         "doi": null,
         "year": 2013,
         "type": "Article",
-        "description": "32 patients assessed with electrophoresis diagnostic process. PMID: 23515294",
-        ],
-    53    [
+        "description": "32 patients assessed with electrophoresis diagnostic process. PMID: 23515294"
+        },
+    53    {
         "doi": "10.1016/j.neurobiolaging.2013.07.015",
         "year": 2014,
         "type": "Article",
-        "description": "Sequencing analysis of 40 patients; interruptions not found.",
-        ],
-    54    [
+        "description": "Sequencing analysis of 40 patients; interruptions not found."
+        },
+    54    {
         "doi": "10.1016/j.nmd.2014.06.441",
         "year": 2014,
         "type": "Article",
-        "description": "Case report of 1 patient.",
-        ],
-    55    [
+        "description": "Case report of 1 patient."
+        },
+    55    {
         "doi": "10.3109/21678421.2013.837927",
         "year": 2014,
         "type": "Article",
-        "description": "20 patients assessed to find subclinical cognitive impairments.",
-        ],
-    56    [
+        "description": "20 patients assessed to find subclinical cognitive impairments."
+        },
+    56    {
         "doi": "10.1097/CND.0000000000000030",
         "year": 2014,
         "type": "Article",
-        "description": "Single case report with biphasic disease progression: 'The atypical clinical features, evolution, and accelerated disease course are not concordant with the relatively short 38 CAG-repeat expansion in the androgen receptor gene. This may represent either a variant SBMA phenotype, which has not been recorded to date, or the development of amyotrophic lateral sclerosis in a known case of SBMA.'",
-        ],
-    57    [
+        "description": "Single case report with biphasic disease progression: 'The atypical clinical features, evolution, and accelerated disease course are not concordant with the relatively short 38 CAG-repeat expansion in the androgen receptor gene. This may represent either a variant SBMA phenotype, which has not been recorded to date, or the development of amyotrophic lateral sclerosis in a known case of SBMA.'"
+        },
+    57    {
         "doi": "10.2174/1566524014666140603100131",
         "year": 2014,
         "type": "Review",
-        "description": "Review on SBMA with an illustrative case report presented.",
-        ],
-    58    [
+        "description": "Review on SBMA with an illustrative case report presented."
+        },
+    58    {
         "doi": "10.1016/j.jocn.2013.07.026",
         "year": 2014,
         "type": "Article",
-        "description": "Postural leg tremor evaluated in 12 patients",
-        ],
-    59    [
+        "description": "Postural leg tremor evaluated in 12 patients"
+        },
+    59    {
         "doi": "10.1212/WNL.0000000000000434",
         "year": 2014,
         "type": "Article"
-        "description": "Brugada syndrome evaluated in 144 patients.",
-        ],
-    60    [
+        "description": "Brugada syndrome evaluated in 144 patients."
+        },
+    60    {
         "doi": "10.1007/s00415-014-7567-5",
         "year": 2014,
         "type": "Article",
         "description": "Investigation of the neuropsychological and psychological profiles of 20 patients."
-        ],
-    61    [
+        },
+    61    {
         "doi": "10.5414/NP300829",
         "year": 2015,
         "type": "Article",
-        "description": "Morphological case report of one individual.",
-        ],
-    62   [
+        "description": "Morphological case report of one individual."
+        },
+    62   {
         "doi": "10.1136/jnnp-2015-311305",
         "year": 2015,
         "type": "Article",
-        "description": "Non-neurological evaluation of clinical features for 73 patients.",
-        ],
-    63    [
+        "description": "Non-neurological evaluation of clinical features for 73 patients."
+        },
+    63    {
         "doi": "10.1111/ene.13001",
         "year": 2016,
         "type": "Brief Communication",
-        "description": "159 patients; polyG polymorphism did not have affect on phenotype.",
-        ],
-    64    [
+        "description": "159 patients; polyG polymorphism did not have affect on phenotype."
+        },
+    64    {
         "doi": "10.1212/WNL.0000000000004748",
         "year": 2017,
         "type": "Article",
-        "description": "36 patients evaluated; evidence of non-alcoholic liver disease in nearly all patients.",
-        ],
-    65    [
+        "description": "36 patients evaluated; evidence of non-alcoholic liver disease in nearly all patients."
+        },
+    65    {
         "doi": "10.1136/jnnp-2017-316015",
         "year": 2017,
         "type": "Article",
-        "description": "65 patients in a clinical trial.",
-        ],
-    66    [
+        "description": "65 patients in a clinical trial."
+        },
+    66   {
         "doi": "10.1007/s00415-018-8790-2",
         "year": 2018,
         "type": "Article",
-        "description": "80 German SBMA patients evaluated across metabolic and endocrine characteristics.",
-        ],
-    67    [
+        "description": "80 German SBMA patients evaluated across metabolic and endocrine characteristics."
+        },
+    67    {
         "doi": "10.1038/s41598-018-32062-5",
         "year": 2018,
         "type": "Article",
-        "description": "64 patients given neuropsychological evaluations.",
-        ],
-    68    [
+        "description": "64 patients given neuropsychological evaluations."
+        },
+    68    {
         "doi": "doi.org/10.1111/ene.13850",
         "year": 2018,
         "type": "Article",
-        "description": "Survey of Italian Veneto region identified 68 patients: 'punctual prevalence of the disease on 31 January 2018 was 2.58/100 000 (95% confidence interval 1.65–3.35) in the male population.'",
-        ],
-    69    [
+        "description": "Survey of Italian Veneto region identified 68 patients: 'punctual prevalence of the disease on 31 January 2018 was 2.58/100 000 (95% confidence interval 1.65–3.35) in the male population.'"
+        },
+    69    {
         "doi": null,
         "year": 2018,
         "type": "Article",
-        "description": "47 patients underwent biochemical analysis and had high prevalence of insulin resistance, metabolic syndrome, and non-alcoholic fatty liver disease. PMID: 30838350",
-        ],
-    70    [
+        "description": "47 patients underwent biochemical analysis and had high prevalence of insulin resistance, metabolic syndrome, and non-alcoholic fatty liver disease. PMID: 30838350"
+        },
+    70    {
         "doi": "10.1002/hbm.24583",
         "year": 2019,
         "type": "Article",
         "description": "25 patients were evaluated in comparison to ALS and lower motor neuron-predominant disease."
-        ],
-    71    [
+        },
+    71    {
         "doi": "10.1007/s10142-018-0651-7",
         "year": 2019,
         "type": "Article",
-        "description": "3 Han Chinese families studied.",
-        ],
-    72    [
+        "description": "3 Han Chinese families studied."
+        },
+    72    {
         "doi": "10.1002/ccr3.2899",
         "year": 2020,
         "type": "Article",
-        "description": "1 case report.",
-        ],
-    73    [
+        "description": "1 case report."
+        },
+    73    {
         "doi": "10.1136/jnnp-2022-329616",
         "year": 2022
         "type": "Article",
-        "description": "12 patients; short report on virtual clinical assessments.",
-        ],
-    74    [
+        "description": "12 patients; short report on virtual clinical assessments."
+        },
+    74    {
         "doi": "10.1007/s00415-022-10992-5",
         "year": 2022,
         "type": "Article",
-        "description": "30 patients had ECGs and cardio MRS.",
-        ],
-    75    [
+        "description": "30 patients had ECGs and cardio MRS."
+        },
+    75    {
         "doi": "10.1007/s10072-022-05969-1",
         "year": 2022,
         "type": "Article",
-        "description": "11 patients with SBMA showed thinner peripheral nerves than patients with ALS.",
-        ],
-    76    [
+        "description": "11 patients with SBMA showed thinner peripheral nerves than patients with ALS."
+        },
+    76    {
         "doi": "10.1111/echo.15690",
         "year": 2023,
         "type": "Article",
-        "description": "1 case report: SBMA, HCM, 2 types of Brugada-pattern electrocardiographic changes, heterozygous missense mutation in the TTN gene",
-        ],
-    77    [
+        "description": "1 case report: SBMA, HCM, 2 types of Brugada-pattern electrocardiographic changes, heterozygous missense mutation in the TTN gene"
+        },
+    77    {
         "doi": "10.1093/braincomms/fcae087",
         "year": 2024
         "type": "Article",
-        "description": "1 patient received revised diagnosis of Kennedy's disease.",
-        ],
-],
-    "total_ind_obs": 2285
+        "description": "1 patient received revised diagnosis of Kennedy's disease."
+        },
 },
-
-"EIEE1_ARX":{
-    "independent_observations": [
-1 [
+    "total_ind_obs": 2285
+}},
+{"EIEE1_ARX":{
+    "independent_observations": {
+1 {
     "doi": "10.1002/humu.21288",
     "year": 2010,
     "type": "Review",
     "description": "Review of ARX mutations through 2010. 3 cases of EIEE, 4 of IEDE, 1 of DEE with dystonia, and 9 with West Syndrome."
-    ],
-2   [
+    },
+2   {
     "doi": "10.1002/mgg3.133",
     "year": 2015,
     "type": "Review",
     "description": "10 cases from Mirza et al. and 4 from Cossee et al that are DEE/EIEE. The rest are already included in the 2010 review."
-    ],
-3    [
+    },
+3    {
     "doi": "10.1097/MPG.0000000000000542",
     "year": 2015,
     "type": "Article",
     "description": "1 new patient presented."
-    ],
-4    [
+    },
+4    {
     "doi": null,
     "year": 2022,
     "type": "Article",
     "description": "1 case of West syndrome caused by ARX expansion. PMID: 36571524.",
-    ],
-  ],
+    },
+  },
   "total_ind_obs": 33
-},
+}},
 
-"PRTS_ARX":{
-    "independent_observations": [
-1    [
+{"PRTS_ARX":{
+    "independent_observations": {
+1    {
     "doi": "10.1002/humu.21288",
     "year": 2010,
     "type": "Review",
     "description": "A review with 7 cases of Partington Syndrome.",
-    ],
-2    [
+    },
+2    {
     "doi": "10.1002/ajmg.a.40382",
     "year": 2018,
     "type": "Article",
     "description": "Clinical diagnosis of one case of Partington Syndrome."
-    ],
-3    [
+    },
+3    {
     "doi": "10.1155/2023/3636748",
     "year": 2023,
     "type": "Article",
     "description": "Diagnosis of a adult with life-long disease with Partington syndrome."
-    ],
-],
-    "total_ind_obs": 9
+    },
 },
+    "total_ind_obs": 9
+}},
 
-"DRPLA_ATN1":{
-    "independent_observations": [
-    [
+{"DRPLA_ATN1":{
+    "independent_observations": {
+    {
     "doi": "10.1212/WNL.32.8.798",
     "year": 1982,
     "type": "Article",
     "description": "Established DRPLA with five families."
-    ],
-    [
+    },
+    {
     "doi": "10.1212/WNL.32.12.1395",
     "year": 1982,
     "type": "Article",
     "description": "1 family",
-    ],
-    [
+    },
+    {
     "doi": "10.1136/jnnp.47.12.1288",
     "year": 1984,
     "type": "Article",
     "description": "Four cases are used to describe three subtypes of DRPLA."
-    ],
-    [
+    },
+    {
     "doi": "10.1016/0022-510x(85)90084-x",
     "year": 1985,
     "type": "Article",
-    "description": "3 DRPLA cases used to study neurotransmitters and neuronal cell density.",
-    ],
-    [
+    "description": "3 DRPLA cases used to study neurotransmitters and neuronal cell density."
+    },
+    {
     "doi": "10.1002/mds.870050207",
     "year": 1990,
     "type": "Article",
-    "description": "Case report of one patient",
-    ],
-    [
+    "description": "Case report of one patient"
+    },
+    {
     "doi": "10.1093/hmg/3.7.1197",
     "year": 1994,
     "type": "Article",
-    "description": "Two families, across generations",
-    ],
-    [
+    "description": "Two families, across generations"
+    },
+    {
     "doi": "10.1038/ng0894-521",
     "year": 1994,
     "type": "Article",
-    "description": "1 Family with 'Haw River Syndrome'.",
-    ],
-    [
+    "description": "1 Family with 'Haw River Syndrome'."
+    },
+    {
     "doi": "10.1038/ng0194-14",
     "year": 1994,
     "type": "Article",
-    "description": "12 families used in this and other publications; this is the only one represented to avoid redundancy.",
-    ],
-    [
+    "description": "12 families used in this and other publications; this is the only one represented to avoid redundancy."
+    },
+    {
     "doi": "10.1038/ng0194-9",
     "year": 1994,
     "type": "Article",
-    "description": "Two new families presented in research analysis.",
-    ],
-    [
+    "description": "Two new families presented in research analysis."
+    },
+    {
     "doi": "10.1055/s-2008-1073027",
     "year": 1994,
     "type": "Article",
-    "description": "A case report of juvenile DRPLA.",
-    ],
-    [
+    "description": "A case report of juvenile DRPLA."
+    },
+    {
     "doi": "10.1111/j.1442-200X.1994.tb03240.x",
     "year": 1994,
     "type": "Article",
-    "description": "Case report of a patient in the early stage of DRPLA of the myoclonus epilepsy type. DOI does not direct correctly but corresponds to PMID: 7825457",
-    ],
-    [
+    "description": "Case report of a patient in the early stage of DRPLA of the myoclonus epilepsy type. DOI does not direct correctly but corresponds to PMID: 7825457"
+    },
+    {
     "doi": "10.1038/ng0194-8",
     "year": 1994,
     "type": "Letter",
-    "description": "Correspondence describing a French family with DRPLA.",
-    ],
-    [
+    "description": "Correspondence describing a French family with DRPLA."
+    },
+    {
     "doi": "10.1007/BF00201575",
     "year": 1994,
     "type": "Brief Communication",
-    "description": "Four families with DRPLA.",
-    ],
-    [
+    "description": "Four families with DRPLA."
+    },
+    {
     "doi": "10.1111/j.1440-1789.1995.tb00258.x",
     "year": 1995,
     "type": "Article",
-    "description": "8 patients.",
-    ],
-    [
+    "description": "8 patients."
+    },
+    {
     "doi": "10.1111/j.1440-1789.1995.tb00259.x",
     "year": 1995,
     "type": "Article",
-    "description": "3 cases",
-    ],
-    [
+    "description": "3 cases"
+    },
+    {
     "doi": "10.1016/0022-510X(95)00019-X",
     "year": 1995,
     "type": "Article",
-    "description": "6 patients from three generations of one family.",
-    ],
-    [
+    "description": "6 patients from three generations of one family."
+    },
+    {
     "doi": "10.1212/WNL.45.1.143",
     "year": 1995,
     "type": "Article",
-    "description": "Two new pedigrees introduced. Other pedigrees studied previously and documented above.",
-    ],
-    [
+    "description": "Two new pedigrees introduced. Other pedigrees studied previously and documented above."
+    },
+    {
     "doi": "10.1002/ana.410370610",
     "year": 1995,
     "type": "Article",
-    "description": "28 families, including previously published which have been removed to avoid redundancy.",
-    ],
-    [
+    "description": "28 families, including previously published which have been removed to avoid redundancy."
+    },
+    {
     "doi": "10.1093/hmg/4.4.663",
     "year": 1995,
     "type": "Article",
-    "description": "1 new case introduced",
-    ],
-    [
+    "description": "1 new case introduced"
+    },
+    {
     "doi": null,
     "year": 1995,
     "type": "Article",
-    "description": "Case report of childhood onset DRPLA. PMID: 8693983",
-    ],
-    [
+    "description": "Case report of childhood onset DRPLA. PMID: 8693983"
+    },
+    {
     "doi": "10.1136/jnnp.61.1.113",
     "year": 1996,
     "type": "Article",
-    "description": "Sporadic case report of one individual",
-    ],
-    [
+    "description": "Sporadic case report of one individual"
+    },
+    {
     "doi": null,
     "year": 1996,
     "type": "Article",
-    "description": "1 new patient described in addition to previously published patients, including one from a Japanese article not otherwise in this catalog (Takeda et al., 1992). PMID: 8651298",
-    ],
-    [
+    "description": "1 new patient described in addition to previously published patients, including one from a Japanese article not otherwise in this catalog (Takeda et al., 1992). PMID: 8651298"
+    },
+    {
     "doi": "10.1016/0022-510x(95)00249-2",
     "year": 1996,
     "type": "Article",
     "description": "A DRPLA case report, in addition to MJD and SBMA"
-    ],
-    [
+    },
+    {
     "doi": "10.1111/j.1440-1789.1996.tb00156.x",
     "year": 1996,
     "type": "Article",
-    "description": "Four unrelated case reports.",
-    ],
-    [
+    "description": "Four unrelated case reports."
+    },
+    {
     "doi": "10.1111/j.1399-0004.1996.tb02625.x",
     "year": 1996,
     "type": "Article",
-    "description": "An autopsied patient.",
-    ],
-    [
+    "description": "An autopsied patient."
+    },
+    {
     "doi": "10.1212/wnl.49.6.1605",
     "year": 1997,
     "type": "Article",
-    "description": "26 patients; MRI findings.",
-    ],
-    [
+    "description": "26 patients; MRI findings."
+    },
+    {
     "doi": "10.1111/j.1528-1157.1997.tb01116.x",
     "year": 1997,
     "type": "Article",
-    "description": "2 brothers from one family presented",
-    ],
-    [
+    "description": "2 brothers from one family presented"
+    },
+    {
     "doi": "10.1016/s0387-7604(97)00022-3",
     "year": 1997,
     "type": "Article",
-    "description": "Three unrelated case reports",
-    ],
-[
+    "description": "Three unrelated case reports"
+    },
+{
     "doi": "10.1111/j.1600-0404.1998.tb07378.x",
     "year": 1998,
     "type": "Article",
     "description": "7 cases with a familial history of dominant cerebellar ataxia and 2 sporadic cases (9 total with DRPLA)."
-    ],
+    },
 
-    ["doi": "10.1023/a:1022441101801",
+    {"doi": "10.1023/a:1022441101801",
     "year": 1998,
     "type": "Article",
-    "description": "1 patient in a study of somatic mosaicism in SBMA, MJD, and DRPLA.",
-],
+    "description": "1 patient in a study of somatic mosaicism in SBMA, MJD, and DRPLA."
+},
 
-    [
+    {
     "doi": "10.1212/wnl.50.1.282",
     "year": 1998,
     "type": "Brief Communication",
-    "description": "Sibs from one family",
-    ],
-    [
+    "description": "Sibs from one family"
+    },
+    {
     "doi": "10.1007/s004010050828",
     "year": 1998,
     "type": "Article",
     "description": "16 patients described but at least some number included in previous publications; 6 patients apparently new in this report (at least)."
-    ],
-    [
+    },
+    {
     "doi": "10.1212/WNL.50.6.1887",
     "year": 1998,
-    "type": "Brief Communication"
-    "description": "13 families",
-    ],
-[
+    "type": "Brief Communication",
+    "description": "13 families"
+    },
+{
     "doi": "10.1016/S0887-8994(97)00175-6",
     "year": 1998,
     "type": "Article",
-    "description": "1 family",
-    ],
-    [
+    "description": "1 family"
+    },
+    {
     "doi": "10.2169/internalmedicine.38.287",
     "year": 1999,
     "type": "Article",
-    "description": "1 family",
-    ],
-    [
+    "description": "1 family"
+    },
+    {
     "doi": "10.1016/s0920-1211(99)00028-5",
     "year": 1999,
     "type": "Article",
-    "description": "10 pedigrees",
-    ],
-    [
+    "description": "10 pedigrees"
+    },
+    {
     "doi": "10.1212/WNL.56.2.277",
     "year": 2001,
-    "type": "Brief Communication,"
-    "description": "2 infantile patients",
-    ],
- [
+    "type": "Brief Communication",
+    "description": "2 infantile patients"
+    },
+ {
     "doi": "10.1001/archneur.59.2.289",
     "year": 2002,
     "type": "Brief Communication",
-    "description": "2 unrelated patients with corneal endothelial loss",
-    ],
-    [
+    "description": "2 unrelated patients with corneal endothelial loss"
+    },
+    {
     "doi": "10.1034/j.1600-0404.2002.02061.x",
     "year": 2002,
     "type": "Article",
-    "description": "1 elderly patient",
-    ],
-    [
+    "description": "1 elderly patient"
+    },
+    {
     "doi": "10.1002/ana.10352",
     "year": 2002,
     "type": "Article",
     "description": "12 patients... and transgenic mice!"
-    ],
-    [
+    },
+    {
     "doi": "10.1034/j.1600-0404.2003.00150.x",
     "year": 2003,
     "type": "Brief Communication",
     "description": "1 family; predominant symptom cervical dystonia."
-    ],
+    },
 
- [
+ {
     "doi":"10.1007/s10038-004-0196-6",
     "year": 2004,
     "type": "Article",
-    "description": "9 families",
-    ],
-    [
+    "description": "9 families"
+    },
+    {
     "doi": "10.1111/j.1528-1167.2008.01701.x",
     "year": 2008,
     "type": "Article",
-    "description": "14 families",
-    ],
-    [
+    "description": "14 families"
+    },
+    {
     "doi": "10.1007/s00415-009-5111-9",
     "year": 2009,
     "type": "Letter to the Editors",
     "description": "1 adult onset case mimicking central pontine myelinolysis."
-    ],
-    [
-    "doi":
-    "year":
-    "type":
-    "description":
-    ],
+    },
+    {
+    "doi": "10.1002/mds.23167"
+    "year": 2010,
+    "type": "Article",
+    "description": "183 patients. Family status not commented on. All patients of Japanese descent."
+    },
 
-     [
+     {
+    "doi": "10.1016/j.braindev.2011.07.013",
+    "year":
+    "type":
+    "description":
+    },
+    {
     "doi":
     "year":
     "type":
     "description":
-    ],
-    [
+    },
+    {
     "doi":
     "year":
     "type":
     "description":
-    ],
-    [
+    },
+    {
     "doi":
     "year":
     "type":
     "description":
-    ],
-    [
-    "doi":
-    "year":
-    "type":
-    "description":
-    ],
-]
-
-},
-
-"SCA1_ATXN1":
-{"independent_observations": [
-    [
-    "doi":
-    "year":
-    "type":
-    "description":
-    ],
-    [
-    "doi":
-    "year":
-    "type":
-    "description":
-    ],
-    [
-    "doi":
-    "year":
-    "type":
-    "description":
-    ],
-    [
-    "doi":
-    "year":
-    "type":
-    "description":
-    ],
-]
+    },
 }
 
-"SCA10_ATXN10":
+}},
+
+{"SCA1_ATXN1":
+{"independent_observations": {
+    {
+    "doi":
+    "year":
+    "type":
+    "description":
+    },
+    {
+    "doi":
+    "year":
+    "type":
+    "description":
+    },
+    {
+    "doi":
+    "year":
+    "type":
+    "description":
+    },
+    {
+    "doi":
+    "year":
+    "type":
+    "description":
+    },
+}
+}},
+
+{"SCA10_ATXN10":
 {"independent_observations":
 
-}
+}},
 
 "SCA2_ATXN2":
 {"independent_observations":
 
 }
 
-"SCA3_ATXN3":
+{"SCA3_ATXN3":
 {"independent_observations":
 
-"doi": "10.1016/0022-510x(95)00249-2",
+{"doi": "10.1016/0022-510x(95)00249-2",
 "year": 1996,
 "type": "Article",
-"description": "1 patient; looked at repeats in different tissues.",
+"description": "1 patient; looked at repeats in different tissues."
+},
+:{
 "doi": "10.1023/a:1022441101801",
-
 "year": 1998,
 "type": "Article",
-"description": "1 patient in a study of somatic mosaicism in SBMA, MJD, and DRPLA.",
+"description": "1 patient in a study of somatic mosaicism in SBMA, MJD, and DRPLA."
+},
 }
-
 "SCA7_ATXN7":
 {"independent_observations":
 
@@ -1217,4 +1208,4 @@
 
 }
 
-}
+]
