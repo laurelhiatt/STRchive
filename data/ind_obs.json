@@ -221,7 +221,7 @@
     28 [
         "doi": "10.1212/01.WNL.0000151978.74467",
         "year": 2005,
-        "type": "Brief Communications",
+        "type": "Brief Communication",
         "description": "49 patients assessed; almost half had recurrent laryngospasm.",
         ],
     29 [
@@ -762,7 +762,7 @@
     [
     "doi": "10.1212/wnl.50.1.282",
     "year": 1998,
-    "type": "Brief Communications",
+    "type": "Brief Communication",
     "description": "Sibs from one family",
     ],
     [
@@ -772,12 +772,86 @@
     "description": "16 patients described but at least some number included in previous publications; 6 patients apparently new in this report (at least)."
     ],
     [
+    "doi": "10.1212/WNL.50.6.1887",
+    "year": 1998,
+    "type": "Brief Communication"
+    "description": "13 families",
+    ],
+[
+    "doi": "10.1016/S0887-8994(97)00175-6",
+    "year": 1998,
+    "type": "Article",
+    "description": "1 family",
+    ],
+    [
+    "doi": "10.2169/internalmedicine.38.287",
+    "year": 1999,
+    "type": "Article",
+    "description": "1 family",
+    ],
+    [
+    "doi": "10.1016/s0920-1211(99)00028-5",
+    "year": 1999,
+    "type": "Article",
+    "description": "10 pedigrees",
+    ],
+    [
+    "doi": "10.1212/WNL.56.2.277",
+    "year": 2001,
+    "type": "Brief Communication,"
+    "description": "2 infantile patients",
+    ],
+ [
+    "doi": "10.1001/archneur.59.2.289",
+    "year": 2002,
+    "type": "Brief Communication",
+    "description": "2 unrelated patients with corneal endothelial loss",
+    ],
+    [
+    "doi": "10.1034/j.1600-0404.2002.02061.x",
+    "year": 2002,
+    "type": "Article",
+    "description": "1 elderly patient",
+    ],
+    [
+    "doi": "10.1002/ana.10352",
+    "year": 2002,
+    "type": "Article",
+    "description": "12 patients... and transgenic mice!"
+    ],
+    [
+    "doi": "10.1034/j.1600-0404.2003.00150.x",
+    "year": 2003,
+    "type": "Brief Communication",
+    "description": "1 family; predominant symptom cervical dystonia."
+    ],
+
+ [
+    "doi":"10.1007/s10038-004-0196-6",
+    "year": 2004,
+    "type": "Article",
+    "description": "9 families",
+    ],
+    [
+    "doi": "10.1111/j.1528-1167.2008.01701.x",
+    "year": 2008,
+    "type": "Article",
+    "description": "14 families",
+    ],
+    [
+    "doi": "10.1007/s00415-009-5111-9",
+    "year": 2009,
+    "type": "Letter to the Editors",
+    "description": "1 adult onset case mimicking central pontine myelinolysis."
+    ],
+    [
     "doi":
     "year":
     "type":
     "description":
     ],
-[
+
+     [
     "doi":
     "year":
     "type":
@@ -807,7 +881,7 @@
 
 "SCA1_ATXN1":
 {"independent_observations": [
-[
+    [
     "doi":
     "year":
     "type":
